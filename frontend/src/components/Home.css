@@ -1,0 +1,47 @@
+body{
+  background-color: #fdd99a;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.home h1 {
+  color: 	#a76d18;
+  font-size: 2.5em;
+}
+
+.services {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-gap: 20px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.service-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #feedcf;
+  border-radius: 10px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.service-box h2 {
+  color:  	#a76d18;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.service-box a{
+  text-decoration: none;
+}
+
+.service-box p {
+  color: #666;
+  font-size: 1em;
+  text-align: center;
+}
