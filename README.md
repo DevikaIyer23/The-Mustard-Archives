@@ -1,4 +1,8 @@
 # Mustard Archive
+Made in colaboration by:
+Shaurya: github.com/ladsad
+Devika: github.com/devikaiyer23
+
 # Problem Statement
 Our project aims at building a consultancy platform that streamlines service delivery by connecting clients with skilled professionals. Clients browse and request diverse projects, while consultants and providers deliver their expertise. This platform will bridge the gap, ensuring clients get the services they need and the consultancy thrives with new projects. By implementing a strong database system, consultancy services can achieve significant improvements in operational efficiency, client service, and overall business performance.
 
